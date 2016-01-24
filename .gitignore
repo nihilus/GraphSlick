@@ -1,0 +1,12 @@
+*.suo
+*.sdf
+*.opensdf
+*.obj
+*.user
+Debug/
+Release/
+ipch/
+SR/
+SemiDebug/
+Debug64/
+Release64/
